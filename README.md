@@ -1,4 +1,4 @@
-👨‍💻 Panagiotis Stavrianidis__
+👨‍💻 Panagiotis Stavrianidis\
 🌟 Software Engineer | Frontend & Backend Developer | Tech Enthusiast
 
 🔧 Tech Stack:
