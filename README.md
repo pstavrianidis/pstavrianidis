@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**pstavrianidis/pstavrianidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here’s a professional yet approachable GitHub bio tailored for a software engineer like you:
 
-Here are some ideas to get you started:
+👨‍💻 Panagiotis Stavrianidis
+🌟 Software Engineer | Frontend & Backend Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:
+
+Frontend: Angular
+Backend: Node.js
+Database: MongoDB
+🚀 Passionate about building efficient, scalable, and user-friendly applications. I love solving complex problems with clean and maintainable code. Always curious, always learning.
+
+🌍 Based in Greece, working towards making an impact in the tech community.
+
+🐾 When I’m not coding, you can find me enjoying time with my gray Tibetan Terrier or exploring new hobbies.
+
+📬 Feel free to connect and collaborate!
