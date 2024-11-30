@@ -1,6 +1,3 @@
-
-Here’s a professional yet approachable GitHub bio tailored for a software engineer like you:
-
 👨‍💻 Panagiotis Stavrianidis
 🌟 Software Engineer | Frontend & Backend Developer | Tech Enthusiast
 
